@@ -1,4 +1,4 @@
-# Learning Objectives
+# BoundingBox Android App
 
 * Basic design patterns and their purpose
     * Composite pattern
